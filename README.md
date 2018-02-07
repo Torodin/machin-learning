@@ -3,5 +3,5 @@ This repositori is for experiment with diferents form of machine learning
 
 ## Types avaliables
 
-* Perceptron
-* Generations
+* [Perceptron](perceptron_v1.cpp)
+* [Generations](generations.cpp)
