@@ -1,7 +1,7 @@
 # Machine learning
 Este es un reporsitorio para experimentar con las diferentes formas de maching learning
 
-Lenguages ->  EN  [ES](README_ES.md)
+Lenguages ->  [EN](README.md)  ES
 
 ## Tipos disponibles
 
