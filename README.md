@@ -1,2 +1,2 @@
-# perceptron
-basic ia based on perceptron
+# Machine learning
+This repositori is for experiment with diferents form of machine learning
